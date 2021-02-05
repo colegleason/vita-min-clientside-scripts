@@ -1,4 +1,4 @@
-javascript:(function(){
+(function(){
 var existing_container = document.getElementById('linked_images');
 if ( existing_container ) {
   if ( existing_container.style.display !== 'none' ) {
